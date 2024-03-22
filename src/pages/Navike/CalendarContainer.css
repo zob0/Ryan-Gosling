@@ -1,0 +1,8 @@
+.calendar-container {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.today {
+    background-color: rgba(255, 0, 0, 0);
+    color: maroon;
+}

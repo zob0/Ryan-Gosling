@@ -1,0 +1,13 @@
+.citat-container {
+  height: 100vh;
+  background-image: url("./image/citatbg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.citat-naslov {
+  color: white;
+}

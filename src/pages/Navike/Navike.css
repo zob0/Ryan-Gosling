@@ -1,0 +1,84 @@
+/* BOJE
+#3E226B  - tamno ljubicasta
+#8A77B7 - malo manje tamna
+#C6AABE - svetlo ljubicasta */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Navike {
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #c6aabe;
+  background-color: #3e226b;
+  /* width: 600px; */
+  padding-left: 30px;
+  padding-right: 50px;
+  padding-top: 20px;
+}
+
+.input-upisi {
+  color: #c6aabe;
+  height: 30px;
+  border-radius: 15px;
+  border-color: #c6aabe;
+  background-color: transparent;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+.n-dugme {
+  height: 30px;
+}
+
+.n-polje {
+  width: 200px;
+  display: flex;
+  height: 35px;
+  border-radius: 15px;
+  border: 1px solid #c6aabe;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5px;
+  padding-right: 10px;
+  margin-bottom: 20px;
+}
+
+.unchecked,
+checked {
+  height: 25px;
+}
+
+.navika-kontejner {
+  display: flex;
+  gap: 25px;
+}
+
+.n-dugmic {
+  border: 1px solid #c6aabe;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  height: 30px;
+  width: 100px;
+  color: #c6aabe;
+}
+
+.obvijac {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+  margin-top: 70px;
+  background-color: #3e226b;
+
+}

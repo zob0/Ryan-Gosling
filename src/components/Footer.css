@@ -1,0 +1,22 @@
+.footeric {
+  height: 85px;
+  background-color: #c6aabe;
+  position: fixed; /* Fixed position so it stays at the bottom of the viewport */
+  bottom: 0;
+  width: 100%;
+}
+.selfi {
+  position: fixed;
+  right: 28px;
+  bottom: 5px;
+  text-align: center;
+}
+.selfi-tekst {
+  visibility: hidden;
+  margin: 0;
+  padding: 0;
+  font-size: smaller;
+}
+.selfi:hover > .selfi-tekst {
+  visibility: visible;
+}

@@ -1,0 +1,35 @@
+.onama-naslov {
+  padding-top: 30px;
+  margin-left: 2vw;
+  color: aliceblue;
+}
+.bio1 {
+  margin-top: 5vh;
+  color: aliceblue;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  font-size: 20px;
+  position: relative;
+}
+.slika1 {
+
+  padding-left: 84.5vw;
+  position: absolute;
+  height: 250px;
+}
+
+.slika2 {
+  padding-left: 84.5vw;
+  position: absolute;
+  height: 250px;
+}
+.slika3 {
+  padding-left: 84.5vw;
+  position: absolute;
+  height: 250px;
+}
+.slika4 {
+  padding-left: 84.5vw;
+  position: absolute;
+  height: 250px;
+}
